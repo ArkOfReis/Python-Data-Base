@@ -1,9 +1,9 @@
 ```
-(-) Steps to use the Tracker:
+(-) Steps to use the Data-Base:
 
 (1) Move the Folder to the Desktop
 
-(2) Run it. Voila! There you have it!
+(2) Run part_manager. Voila! There you have it!
 ```
 
 ```
